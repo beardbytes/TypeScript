@@ -2,5 +2,5 @@
 2) npm
 3) node
 4) faker
-5) parcel
+5) parcel - bundler
 6) @type/googlemaps
