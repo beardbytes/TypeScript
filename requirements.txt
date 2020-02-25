@@ -1,0 +1,6 @@
+1) Typescipt
+2) npm
+3) node
+4) faker
+5) parcel
+6) @type/googlemaps
