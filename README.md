@@ -1,7 +1,7 @@
-#Typescript
+# Typescript
 
-#To run : parcel index.html
+# To run : parcel index.html
 
-#Web-Server - https://localhost:1234
+# Web-Server - https://localhost:1234
 
 
